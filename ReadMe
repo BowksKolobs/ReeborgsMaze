@@ -1,0 +1,7 @@
+Reeborg's World allows users to write code to solve some of the puzzles and challenges on the game.
+You can write and test your code to see if Reeborg (Robot displayed on the Graphical User Interface) does what you intend for it to do.
+You can visit this game on the URL on line 4.
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+This particular Python code solves the 'Maze' challenge.
+The aim of the challenge is to write a code which gets Reeborg to the finish line regardless of the maze. The maze changes everytime you press play.
+Enjoy :)
